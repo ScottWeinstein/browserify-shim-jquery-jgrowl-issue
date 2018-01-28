@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browserify": "^8.0.3",
+    "browserify": "^15.2.0",
     "browserify-shim": "^3.8.2"
   },
   "browserify": {
